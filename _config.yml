@@ -1,6 +1,6 @@
-title: "Cem Okan Yaldiz"
-author: "Cem Okan Yaldiz"
-description: "Personal Website"color: #f45;\">&lt;3</b>"
+title: "Cem Okan YALDIZ"
+author: "Cem Okan YALDIZ"
+description: "Personal Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,13 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title:"About Me", icon: home}
-  #- {file: "README.md", title:"Publications"}
+  - {file: "README.md", title:"Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cyaldiz3@gatech.edu"}
   - {title: Github, icon: github, url: "https://github.com/enCoy"}
-  #- {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/cem-okan-yaldiz/"}
-  #- {title: Scholar, url: "https://scholar.google.com/citations?user=u7zfJ9UAAAAJ&hl=en&oi=ao"}
+  - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/cem-okan-yaldiz/"}
+  - {title: Scholar, url: "https://scholar.google.com/citations?user=u7zfJ9UAAAAJ&hl=en&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
