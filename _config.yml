@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/cem.pdf", title:"CV", icon: home}
-  - {title: "Lab", url: "https://irl.gatech.edu/"}
-  - {file: "/blog.md", title:"Blog"}
+  - {title: "Lab", url: "https://irl.gatech.edu/", icon: something}
+  - {file: "/blog.md", title:"Blog", icon: something}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cyaldiz3@gatech.edu"}
