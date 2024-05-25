@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "aboutme.md", title: "About Me", icon: home}
+  - {file: "aboutme.md", title: "About Me", icon:""}
   - {file: "cem.pdf", title: "CV", icon:""}
   - {title: "Lab", url: "https://irl.gatech.edu/", icon:""}
   - {file: "blog.md", title:"Blog", icon:""}
