@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 I am a graduate student in the [Robotics Department](https://research.gatech.edu/robotics) at the Georgia Institute of Technology. 
