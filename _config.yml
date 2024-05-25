@@ -17,15 +17,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About Me", icon: home}
-  - {file: "cem.pdf", title: "CV", icon: ""}
-  - {title: "Lab", url: "https://irl.gatech.edu/", icon: ""}
-  - {file: "blog.md", title:"Blog", icon: ""}
+  - {file: "cem.pdf", title: "CV", icon: " "}
+  - {title: "Lab", url: "https://irl.gatech.edu/", icon: " "}
+  - {file: "blog.md", title:"Blog", icon: " "}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cyaldiz3@gatech.edu"}
   - {title: Github, icon: github, url: "https://github.com/enCoy"}
-  - {title: LinkedIn, icon: graduation-cap, url: "https://www.linkedin.com/in/cem-okan-yaldiz/"}
-  - {title: Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=u7zfJ9UAAAAJ&hl=en&oi=ao"}
+  - {title: LinkedIn, icon:"", url: "https://www.linkedin.com/in/cem-okan-yaldiz/"}
+  - {title: Scholar, icon:"", url: "https://scholar.google.com/citations?user=u7zfJ9UAAAAJ&hl=en&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
