@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title:"Research", icon:""}
   - {title: "CV", icon:"", url: "cem.pdf"}
   - {title: "Lab", url: "https://irl.gatech.edu/", icon:""}
-  - {file: "technical.md", title:"Technical", icon:""}
+  - {file: "tech.md", title:"Technical", icon:""}
   - {file: "nontechnical.md", title:"Non-Technical", icon:""}
   - {file: "blog.md", title: "Blog", icon:""}
 
