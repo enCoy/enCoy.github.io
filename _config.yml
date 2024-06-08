@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me", icon:""}
+  - {file: "research.md", title:"Research", icon:""}
   - {title: "CV", icon:"", url: "cem.pdf"}
   - {title: "Lab", url: "https://irl.gatech.edu/", icon:""}
   - {file: "tech.md", title:"Technical", icon:""}
