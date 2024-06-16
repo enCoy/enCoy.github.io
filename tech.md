@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Resources below are for me as well as visitors of this page. 
+Resources below are for me as well as visitors of this page. These include data science, machine/deep learning related sources that I have visited before and that I found very instructive.  
 
 ## Books 
 [Deep Learning](https://www.deeplearningbook.org/) (Ian Goodfellow, Yoshua Bengio, Aaron Courville)  <br> 
