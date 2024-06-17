@@ -12,7 +12,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self Development
 * _Rest_ by Alex Pang - Self-Development
 * _Atomic Habits_ by James Clear - Self-Development
-* 
+  
 ## Fiction Books
 * _Les Misérables_ by Victor Hugo - Classic
 * _The Stranger_ by Albert Camus - Classic
