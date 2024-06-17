@@ -14,9 +14,16 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Atomic Habits_ by James Clear - Self-Development
   
 ## Fiction Books
+* _Love in the Time of Cholera_ by Gabriel García Márquez - Classic
 * _Les Misérables_ by Victor Hugo - Classic
+* _The Black Book_ by Orhan Pamuk - Novel
+* _One Hundred Years of Solitude_ by Gabriel García Márquez - Classic
+* _Pride and Prejudice_ by Jane Austen - Classic
 * _The Stranger_ by Albert Camus - Classic
+* _The Picture of Dorian Gray_ by Oscar Wilde - Classic
 * _Harry Potter_ by J.K. Rowling - Fantasy (books are better than motion pictures)
+* _Notes from Underground_ by Fyodor Dostoyevski - Classic
 * _Ward No. 6_ by Anton Chekhov - Classic (suggested for Stoics especially)
-* _Slaughterhouse-Five_ by Kurt Vonnegut
+* _The Sorrows of Young Werther_ by Johann Wolfgang von Goethe - Classic
+* _Slaughterhouse-Five_ by Kurt Vonnegut - Novel
 * _The Dispossessed: An Ambiguous Utopia_ by Ursula K. Le Guin - Utopia (or Distopia)
