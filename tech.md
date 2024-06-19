@@ -15,6 +15,9 @@ As it is clear from its name, this is a fantastic introduction to reinforcement 
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) (Gilbert Strang) <br>
 It is imperative to know fundamentals of Linear Algebra to do machine learning research, and this is a fantastic source. 
 
+[https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969] (Chip Huyen) <br>
+This is a book for the people working on deployment part. However, it is still a good source for researchers to appreciate the difficulty of maintaining these models for real customers.
+
 ## Online Lectures
 [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) (Volodymyr Kuleshov) <br>
 The best resource out there for understanding generative models (as of now). The instructor makes a fabulous job in connecting different developments in generative modeling which makes it very easy to understand and follow. 
@@ -27,6 +30,9 @@ This was the source that I learned reinforcement learning from. Content might be
 
 [Stanford Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) (Andrew Ng) <br>
 This course is perfect for conventional machine learning basics. 
+
+[Stanford CS231n - 2017 Video Lecture Series](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) <br>
+Great source for understanding the basics of deep learning. 
 
 
 ## Websites/Videos
