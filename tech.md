@@ -15,7 +15,7 @@ As it is clear from its name, this is a fantastic introduction to reinforcement 
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) (Gilbert Strang) <br>
 It is imperative to know fundamentals of Linear Algebra to do machine learning research, and this is a fantastic source. 
 
-[https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969] (Chip Huyen) <br>
+[Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) (Chip Huyen) <br>
 This is a book for the people working on deployment part. However, it is still a good source for researchers to appreciate the difficulty of maintaining these models for real customers.
 
 ## Online Lectures
