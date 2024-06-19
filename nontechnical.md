@@ -5,11 +5,15 @@ title: ""
 
 Here I share non-technical (philosophy, literature, art, cinema etc.) suggestions. I am only sharing the ones that I love the most and I tried to sort them by the order of perceived value (totally subjective). 
 ## Non-Fiction Books
+* _Thus Spoke Zarathustra_ by Friedrich Nietzsche - Philosophy
 * _American Prometheus_ by Kai Bird, Martin J. Sherwin - Biography (Nolan's Oppenheimer is also strongly suggested)
 * _Amusing Ourselves to Death: Public Discourse in the Age of Show Business_ by Neil Postman - Media
 * _Ways of Seeing_ by John Berger - Art
+* _The Republic_ by Plato - Philosophy
 * _Guns, Germs, and Steel: The Fates of Human Societies_ by Jared Diamond - History
+* _Discipline and Punish: The Birth of the Prison_ by Michel Foucault - History, Philosophy
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self Development
+* _Simulacra and Simulation_ by Jean Baudrillard - Philosophy
 * _Rest_ by Alex Pang - Self-Development
 * _Atomic Habits_ by James Clear - Self-Development
   
@@ -19,6 +23,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Black Book_ by Orhan Pamuk - Novel
 * _One Hundred Years of Solitude_ by Gabriel García Márquez - Classic
 * _Pride and Prejudice_ by Jane Austen - Classic
+* _To Kill a Mockingbird_ by Harper Lee - Novel (1962 movie adaptation is also suggested) 
 * _The Stranger_ by Albert Camus - Classic
 * _The Picture of Dorian Gray_ by Oscar Wilde - Classic
 * _Harry Potter_ by J.K. Rowling - Fantasy (books are better than motion pictures)
