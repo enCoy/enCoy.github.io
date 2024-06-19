@@ -36,7 +36,8 @@ This course is perfect for conventional machine learning basics.
 * LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
 * Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017). **Transformer Paper** 
 * Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013). **DQN Paper** 
-* Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). **DDPG Paper** 
+* Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015). **DDPG Paper**
+* Haarnoja, Tuomas, et al. "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor." International conference on machine learning. PMLR, 2018. **SAC Paper**
 
 
 
