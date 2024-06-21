@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="qtRKcPtyskPfwM3-Lj9UgkHeI3MaaT8ErtuX8ikw9Ok" />
 ---
 layout: page
 title: ""
