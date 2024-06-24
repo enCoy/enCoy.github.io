@@ -62,10 +62,13 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * LOTR Trilogy
 * Dead Poets Society (1989)
 * Gladiator (2000)
+* Before Trilogy
+* Manchester by the Sea (2016)
 * Once Upon a Time in Anatolia (2011)
 * Rear Window (1954)
 * The Handmaiden (2016)
 * Mulholland Drive (2001)
+* Three Colors: White (1994)
 * 12 Angry Men (1957)
 * Oppenheimer (2023)
 * Inglourious Basterds (2009)
@@ -79,6 +82,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Harry Potter
 * The Godfather (1972)
 * The Ballad of Buster Scruggs (2018)
+* Rashomon (1950)
 * La La Land (2016)
 * Casablanca (1942)
 * Up (2009)
@@ -95,6 +99,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Vertigo (1958)
 * 1917 (2019)
 * Saving Private Ryan (1998)
+* The Curious Case of Benjamin Button (2008)
 * Blade Runner 2049 (2017)
 * Pan's Labyrinth (2006)
 * Psycho (1960)
