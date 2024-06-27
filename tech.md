@@ -46,6 +46,16 @@ Great source for understanding the basics of deep learning.
 * Haarnoja, Tuomas, et al. "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor." International conference on machine learning. PMLR, 2018. **SAC Paper**
 * Fujimoto, Scott, Herke Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." International conference on machine learning. PMLR, 2018. **TD3 Paper**
 * Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." Medical image computing and computer-assisted intervention–MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18. Springer International Publishing, 2015. **U-Net Paper**
+* Ploetz, Thomas. "Applying machine learning for sensor data analysis in interactive systems: Common pitfalls of pragmatic use and ways to avoid them." ACM Computing Surveys (CSUR) 54.6 (2021): 1-25.
+* Oord, Aaron van den, Yazhe Li, and Oriol Vinyals. "Representation learning with contrastive predictive coding." arXiv preprint arXiv:1807.03748 (2018). **InfoNCE Loss**
+* Doersch, Carl. "Tutorial on variational autoencoders." arXiv preprint arXiv:1606.05908 (2016). **VAE**
+* Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). **BERT**
+* Liang, Paul Pu, Amir Zadeh, and Louis-Philippe Morency. "Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions." ACM Computing Surveys (2023). **Multi-modality**
+* Fairclough, Stephen H. "Fundamentals of physiological computing." Interacting with computers 21.1-2 (2009): 133-145. **Psychophysiological Computing**
+* Liu, Fei Tony, Kai Ming Ting, and Zhi-Hua Zhou. "Isolation forest." 2008 eighth ieee international conference on data mining. IEEE, 2008. **Isolation Forest**
+* Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780. **LSTM**
+* Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).  **AlexNet**
+* Schölkopf, Bernhard, et al. "Toward causal representation learning." Proceedings of the IEEE 109.5 (2021): 612-634. **Causal Learning**
 
 
 
