@@ -6,37 +6,51 @@ title: ""
 Here I share non-technical (philosophy, literature, art, cinema etc.) suggestions. I am only sharing the ones that I love the most and I tried to sort them by the order of perceived value (totally subjective). 
 ## Non-Fiction Books
 * _Thus Spoke Zarathustra_ by Friedrich Nietzsche - Philosophy
+* _Tek Adam_ by Sevket Sureyya Aydemir - Biography (Modern Turkey's founder Mustafa Kemal Ataturk's life)
 * _American Prometheus_ by Kai Bird, Martin J. Sherwin - Biography (Nolan's Oppenheimer is also strongly suggested)
 * _Amusing Ourselves to Death: Public Discourse in the Age of Show Business_ by Neil Postman - Media
 * _Ways of Seeing_ by John Berger - Art
 * _The Republic_ by Plato - Philosophy
 * _Sapiens_ by Yuval Noah Harari - History
 * _Guns, Germs, and Steel: The Fates of Human Societies_ by Jared Diamond - History
+* _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
 * _Discipline and Punish: The Birth of the Prison_ by Michel Foucault - History, Philosophy
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self Development
 * _Influence: The Psychology of Persuasion_ by Robert Cialdini - Psychology
 * _Simulacra and Simulation_ by Jean Baudrillard - Philosophy
 * _The Art of War_ by Sun-Tzu
+* _Cehenneme Ovgu_ by Gunduz Vassaf - Turkish Opinion Piece
+* _The 48 Laws of Power_ by Robert Greene
 * _Rest_ by Alex Pang - Self-Development
 * _Atomic Habits_ by James Clear - Self-Development
   
 ## Fiction Books
+* _When Nietzsche Wept_ by Irvin Yalom - Historical Novel
 * _Atlas Shrugged_ by Ayn Rand - Novel
 * _Love in the Time of Cholera_ by Gabriel García Márquez - Classic
+* _Tutunamayanlar_ by Oguz Atay - Turkish Novel
+* _Of Mice and Men_ by John Steinbeck - Short Novel
 * _Les Misérables_ by Victor Hugo - Classic
+* _The Hunchback of Notre-Dame_ by Victor Hugo - Classic
 * _1984_ by George Orwell - Novel
-* _The Black Book_ by Orhan Pamuk - Novel
+* _The Animal Farm_ by George Orwell - Short Novel
+* _The Black Book_ by Orhan Pamuk - Turkish Novel
 * _One Hundred Years of Solitude_ by Gabriel García Márquez - Classic
 * _Pride and Prejudice_ by Jane Austen - Classic
+* _The Pearl_ by John Steinbeck - Short Novel
 * _The Trial_ by Franz Kafka - Classic
-* _When Nietzsche Wept_ by Irvin Yalom - Novel
+* _One Thousand and One Nights_ - Fairy Tale (the first books that made me love reading)
 * _Brave New World_ by Aldous Huxley - Novel
 * _To Kill a Mockingbird_ by Harper Lee - Novel (1962 movie adaptation is also suggested) 
 * _The Stranger_ by Albert Camus - Classic
 * _The Picture of Dorian Gray_ by Oscar Wilde - Classic
 * _Harry Potter_ by J.K. Rowling - Fantasy (books are better than motion pictures)
 * _The Lord of the Rings_ by J.R.R. Tolkien - Fantasy
+* _Percy Jackson & the Olympians_ by Rick Riordan - Fantasy (the first books that made me love reading)
+* _Samarkand_ by Amin Maalouf - Novel
+* _Serenad_ by Zulfu Livaneli - Turkish Novel (read it with Schubert's Serenade)
+* _The Museum of Innocence_ by Orhan Pamuk - Turkish Novel
 * _Fahrenheit 451_ by Ray Bradbury - Novel
 * _Frankenstein_ by Mary Shelley - Classic
 * _The Metamorphosis_ by Franz Kafka - Classic
@@ -44,11 +58,20 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Grapes of Wrath_ by John Steinbeck - Classic
 * _Ward No. 6_ by Anton Chekhov - Classic (suggested for Stoics especially)
 * _The Kite Runner_ by Khaled Hosseini - Novel
+* _Improbable_ by Adam Fawer - Fantasy (the first books that made me love reading)
+* _Think of a Number_ by John Verdon - Detective Novel
+* _The Red and The Black_ by Stendhal - Classic
 * _Wuthering Heights_ by Emily Bronte - Classic
+* _Germinal_ by Emile Zola - Classic
+* _Madame Bovary_ by Gustave Flaubert - Classic
 * _The Great Gatsby_ by F. Scott Fitzgerald - Classic
 * _The Sorrows of Young Werther_ by Johann Wolfgang von Goethe - Classic
+* _The Tartar Steppe_ by Dino Buzzati - Novel
+* _The Old Man and the Sea_ by Ernest Hemingway - Classic
 * _The Alchemist_ by Paulo Coelho - Novel
 * _Zen and the Art of Motorcycle Maintenance by Robert Pirsig - Novel
+* _The Last Day of a Condemned_ by Victor Hugo - Classic
+* _The Da Vinci Code_, _Angels and Demons_ by Dan Brown - Mystery Novel 
 * _Siddhartha_ by Herman Hesse - Novel
 * _Slaughterhouse-Five_ by Kurt Vonnegut - Novel
 * _The Dispossessed: An Ambiguous Utopia_ by Ursula K. Le Guin - Utopia (or Distopia)
