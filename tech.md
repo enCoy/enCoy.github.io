@@ -32,7 +32,10 @@ This was the source that I learned reinforcement learning from. Content might be
 This course is perfect for conventional machine learning basics. 
 
 [Stanford CS231n - 2017 Video Lecture Series](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) <br>
-Great source for understanding the basics of deep learning. 
+Great source for understanding the basics of deep learning.
+
+[Applied Machine Learning - Cornell](https://kuleshov-group.github.io/aml-website/) (Volodymyr Kuleshov) <bv>
+I used this one as a refresher. Very explanatory for the basics of conventional ML algorithms. 
 
 
 ## Websites/Videos
