@@ -15,9 +15,10 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Guns, Germs, and Steel: The Fates of Human Societies_ by Jared Diamond - History
 * _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
-* _Discipline and Punish: The Birth of the Prison_ by Michel Foucault - History, Philosophy
-* _The 7 Habits of Highly Effective People_ by Stephen Coey - Self Development
+* _The 7 Habits of Highly Effective People_ by Stephen Coey - Self-Development
+* _The Culture Map_ by Erin Meyer - Culture
 * _Influence: The Psychology of Persuasion_ by Robert Cialdini - Psychology
+* _Discipline and Punish: The Birth of the Prison_ by Michel Foucault - History, Philosophy
 * _Simulacra and Simulation_ by Jean Baudrillard - Philosophy
 * _The Art of War_ by Sun-Tzu
 * _Cehenneme Ovgu_ by Gunduz Vassaf - Turkish Opinion Piece
@@ -85,7 +86,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * LOTR Trilogy
 * Dead Poets Society (1989)
 * Gladiator (2000)
-* Before Trilogy
+* Before Trilogy (1995, 2004, 2013)
 * Manchester by the Sea (2016)
 * Once Upon a Time in Anatolia (2011)
 * Rear Window (1954)
@@ -135,6 +136,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Coco (2017)
 * One Flew Over The Cuckoo's Nest (1975)
 * The Big Lebowski (1998)
+* Inside Out (2015, 2024)
 * No Country for Old Men (2007)
 * There Will Be Blood (2007)
 * Birdman (2014)
