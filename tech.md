@@ -60,6 +60,8 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012).  **AlexNet**
 * Schölkopf, Bernhard, et al. "Toward causal representation learning." Proceedings of the IEEE 109.5 (2021): 612-634. **Causal Learning**
 * Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. **R-CNN**
+* Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015. **Fast R-CNN**
+* Ren, Shaoqing, et al. "Faster r-cnn: Towards real-time object detection with region proposal networks." Advances in neural information processing systems 28 (2015). **Faster R-CNN**
 
 
 
