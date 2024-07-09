@@ -62,6 +62,8 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Girshick, Ross, et al. "Rich feature hierarchies for accurate object detection and semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. **R-CNN**
 * Girshick, Ross. "Fast r-cnn." Proceedings of the IEEE international conference on computer vision. 2015. **Fast R-CNN**
 * Ren, Shaoqing, et al. "Faster r-cnn: Towards real-time object detection with region proposal networks." Advances in neural information processing systems 28 (2015). **Faster R-CNN**
+* Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. **FCN**
+* Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. **YOLO**
 
 
 
