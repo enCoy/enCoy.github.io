@@ -67,6 +67,8 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Burges, Christopher JC. "A tutorial on support vector machines for pattern recognition." Data mining and knowledge discovery 2.2 (1998): 121-167. **SVM**
 * Breiman, Leo. "Random forests." Machine learning 45 (2001): 5-32. **Random Forests**
 * Bengio, Yoshua, Aaron Courville, and Pascal Vincent. "Representation learning: A review and new perspectives." IEEE transactions on pattern analysis and machine intelligence 35.8 (2013): 1798-1828. **Representation Learning**
+* He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. **ResNet**
+* He, Kaiming, et al. "Mask r-cnn." Proceedings of the IEEE international conference on computer vision. 2017. **Mask R-CNN**
 
 
 
