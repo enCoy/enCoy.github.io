@@ -19,6 +19,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Sapiens_ by Yuval Noah Harari - History
 * _Guns, Germs, and Steel: The Fates of Human Societies_ by Jared Diamond - History, Analysis
 * _Why Nations Fail_ by Daron Acemoglu and James A. Robinson - History, Analysis
+* _Meditations_ by Marcus Aurelius - Philosophy
 * _How to Read a Book_ by Mortimer J. Adler and Charles Van Doren
 * _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
