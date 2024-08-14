@@ -77,6 +77,8 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Complete Works of Edgar Allan Poe_ - Stories
 * _Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values_ by Robert M. Pirsig - Novel
 * _Gece_ by Bilge Karasu - Turkish Novel
+* _The Death of Ivan Ilyich_ by Leo Tolstoy - Short Story
+* _White Nights_ by Fyodor Dostoevsky - Short Story
 * _Improbable_ by Adam Fawer - Fantasy (the first books that made me love reading)
 * _Think of a Number_ by John Verdon - Detective Novel
 * _The Red and The Black_ by Stendhal - Classic
