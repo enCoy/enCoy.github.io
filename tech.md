@@ -18,6 +18,10 @@ It is imperative to know fundamentals of Linear Algebra to do machine learning r
 [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) (Chip Huyen) <br>
 This is a book for the people working on deployment part. However, it is still a good source for researchers to appreciate the difficulty of maintaining these models for real customers.
 
+[Mathematics for Machine Learning](https://mml-book.github.io/) (Marc Peter Deisenroth et. al.) <br>
+Not sure if it is a good book for beginners, but a great one as a refresher. 
+
+
 ## Online Lectures
 [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) (Volodymyr Kuleshov) <br>
 The best resource out there for understanding generative models (as of now). The instructor makes a fabulous job in connecting different developments in generative modeling which makes it very easy to understand and follow. 
@@ -74,7 +78,8 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Touvron, Hugo, et al. "Training data-efficient image transformers & distillation through attention." International conference on machine learning. PMLR, 2021. **Data-efficient image transformers (DeiT)**
 * Dosovitskiy, Alexey, et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020). **ViT**
 * Liu, Ze, et al. "Swin transformer: Hierarchical vision transformer using shifted windows." Proceedings of the IEEE/CVF international conference on computer vision. 2021. **SWIN**
-
+* Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. **Latent Diffusion Models**
+* Bao, Fan, et al. "All are worth words: A vit backbone for diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023. **U-ViT**
 
 
 
