@@ -70,7 +70,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Fahrenheit 451_ by Ray Bradbury - Novel
 * _Frankenstein_ by Mary Shelley - Classic
 * _The Metamorphosis_ by Franz Kafka - Classic
-* _Notes from Underground_ by Fyodor Dostoyevski - Classic
+* _Notes from Underground_ by Fyodor Dostoyevsky - Classic
 * _The Grapes of Wrath_ by John Steinbeck - Classic
 * _Ward No. 6_ by Anton Chekhov - Classic (suggested for Stoics especially)
 * _The Kite Runner_ by Khaled Hosseini - Novel
@@ -78,7 +78,8 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values_ by Robert M. Pirsig - Novel
 * _Gece_ by Bilge Karasu - Turkish Novel
 * _The Death of Ivan Ilyich_ by Leo Tolstoy - Short Story
-* _White Nights_ by Fyodor Dostoevsky - Short Story
+* _White Nights_ by Fyodor Dostoyevsky - Short Story
+* _Poor Folk_ by Fyodor Dostoyevsky - Short Story
 * _Improbable_ by Adam Fawer - Fantasy (the first books that made me love reading)
 * _Think of a Number_ by John Verdon - Detective Novel
 * _The Red and The Black_ by Stendhal - Classic
