@@ -80,6 +80,7 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Liu, Ze, et al. "Swin transformer: Hierarchical vision transformer using shifted windows." Proceedings of the IEEE/CVF international conference on computer vision. 2021. **SWIN**
 * Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. **Latent Diffusion Models**
 * Bao, Fan, et al. "All are worth words: A vit backbone for diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023. **U-ViT**
+* Radford, Alec, et al. "Learning transferable visual models from natural language supervision." International conference on machine learning. PMLR, 2021. **CLIP**
 
 
 
