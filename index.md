@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="/profile.jpg" alt="Profile Picture" style="width:250px; height:auto; border-radius:50%; float:right; margin-right:20px;">
+<img src="/profile.jpg" alt="Profile Picture" style="width:250px; height:auto; border-radius:50%; float:right; margin-left:20px;">
 
 
 I am a 3rd year Ph.D. student in the [Robotics Department](https://research.gatech.edu/robotics) at the Georgia Institute of Technology. I am conducting my studies under the supervision of [Prof. Omer Inan](https://ece.gatech.edu/directory/omer-t-inan) at [Inan Research Lab](https://irl.gatech.edu/). Broadly, I am interested in applied machine and deep learning. Specifically, my research includes development of predictive time series models for solving challenges in wearable health and physiological sensing. 
