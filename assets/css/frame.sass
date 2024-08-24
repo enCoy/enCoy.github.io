@@ -4,14 +4,14 @@
 @import index, font, basic, layout, classes
 
 html
-  background: lighten($dark, 70%)
+  background: #4C56B1
   padding: 0 calc(38% - 22em)
 
 body
-  box-shadow: 0 0 .3em lighten($dark, 65%)
+  box-shadow: 0 0 .3em lighten(#4C56B1, 65%)
 
 body > header, body > footer
-  background: lighten($dark, 5%)
+  background: lighten(#4C56B1, 5%)
   color: $light
 
 @media (min-width: 32em)
@@ -20,8 +20,8 @@ body > header, body > footer
 
 @media (prefers-color-scheme: dark)
   html
-    background: darken($dark, 4%)
+    background: darken(#4C56B1, 4%)
   body > header, body > footer
-    background: $dark
+    background: #4C56B1
   body, body > header, body > footer
-    box-shadow: 0 0 0 1px lighten($dark, 8%)
+    box-shadow: 0 0 0 1px lighten(#4C56B1, 8%)
