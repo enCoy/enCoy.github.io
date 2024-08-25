@@ -5,7 +5,7 @@ title: ""
 
 ## Research Summary
 
-I am broadly interested in applying data-driven technologies (e.g., machine learning or adaptive state-space modeling), to real-world problems to enhance human capabilities. My experience spans working with various datasets from fields including wearable computing, affective computing, 6D pose estimation, 2D and 3D computer vision, and behavioral driver modeling.
+I am broadly interested in applying data-driven technologies (e.g., machine learning or adaptive state-space modeling), to real-world decision-making problems. My experience spans working with various datasets from fields including wearable computing, affective computing, 6D pose estimation, 2D and 3D computer vision, and behavioral driver modeling.
 
 Currently, my research focuses on developing predictive models for wearable devices. Until now this included predicting physiological events, such as exertional heat stroke, and tracking 3D tongue positions using magnetic localization. I also explored disentangled representation learning by using contrastive learning on human activity recognition problem. My ongoing projects involve exploring self-supervised learning strategies for physiological computing, improving magnetic localization for motion tracking, creating algorithms for physiological signal quality indexing and fiducial point prediction. Based on my experience until now, the following factors make these problems especially challenging:
 
@@ -37,7 +37,7 @@ For my upcoming Ph.D. work, I am particularly interested in: <br>
 - Representation learning (self-supervised, contrastive, disentangled, generative etc.)
 - Time series analysis
 - Signal processing
-- State-space modeling (Kalman filters etc.)
+- State-space modeling (ARIMA, Kalman filters etc.)
 - Reinforcement learning
 - Computer vision
 
