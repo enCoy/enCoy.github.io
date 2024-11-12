@@ -84,5 +84,6 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Yu, Jiahui, et al. "Coca: Contrastive captioners are image-text foundation models." arXiv preprint arXiv:2205.01917 (2022). **CoCa**
 * Li, Boyi, et al. "Language-driven semantic segmentation." arXiv preprint arXiv:2201.03546 (2022).
 * Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023). **MAMBA**
+* Qu, Haohao, et al. "A survey of mamba." arXiv preprint arXiv:2408.01129 (2024).
 
 
