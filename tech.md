@@ -85,5 +85,6 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 * Li, Boyi, et al. "Language-driven semantic segmentation." arXiv preprint arXiv:2201.03546 (2022).
 * Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023). **MAMBA**
 * Qu, Haohao, et al. "A survey of mamba." arXiv preprint arXiv:2408.01129 (2024).
+* Shumailov, Ilia, et al. "AI models collapse when trained on recursively generated data." Nature 631.8022 (2024): 755-759.
 
 
