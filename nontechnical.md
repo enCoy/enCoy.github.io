@@ -75,6 +75,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Ward No. 6_ by Anton Chekhov - Classic (suggested for Stoics especially)
 * _The Kite Runner_ by Khaled Hosseini - Novel
 * _Complete Works of Edgar Allan Poe_ - Stories
+* _The Brothers Karamazov_ by Fyodor Dostoevsky - Novel
 * _Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values_ by Robert M. Pirsig - Novel
 * _Gece_ by Bilge Karasu - Turkish Novel
 * _The Death of Ivan Ilyich_ by Leo Tolstoy - Short Story
