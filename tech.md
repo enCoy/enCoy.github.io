@@ -21,6 +21,9 @@ This is a book for the people working on deployment part. However, it is still a
 [Mathematics for Machine Learning](https://mml-book.github.io/) (Marc Peter Deisenroth et. al.) <br>
 Not sure if it is a good book for beginners, but a great one as a refresher. 
 
+[https://www.youtube.com/watch?v=Ym1iH8-GQOE&t=7916s&ab_channel=DATAtab] (DATATab) <br>
+Very good source for understanding statistical tests.
+
 
 ## Online Lectures
 [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) (Volodymyr Kuleshov) <br>
