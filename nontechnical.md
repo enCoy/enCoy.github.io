@@ -8,9 +8,11 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Thus Spoke Zarathustra_ by Friedrich Nietzsche - Philosophy
 * _Tek Adam_ by Sevket Sureyya Aydemir - Biography (Modern Turkey's founder Mustafa Kemal Ataturk's life)
 * _American Prometheus_ by Kai Bird, Martin J. Sherwin - Biography (Nolan's Oppenheimer is also strongly suggested)
+* _Steve Jobs_ by Walter Isaacson - Biography
 * _Amusing Ourselves to Death: Public Discourse in the Age of Show Business_ by Neil Postman - Media
 * _Ways of Seeing_ by John Berger - Art
 * _The Art of Loving_ by Erich Fromm - Philosophy
+* _Writing with Style_ by John Trimble - Writing
 * _The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution_ by Walter Isaacson
 * _Thinking, Fast and Slow_ by Daniel Kahneman - Analysis
 * _The History of Western Philosophy_ by Bertrand Russell
@@ -88,6 +90,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Germinal_ by Emile Zola - Classic
 * _The Plague_ by Albert Camus - Novel
 * _Madame Bovary_ by Gustave Flaubert - Classic
+* _Iliad_ by Homer - Myth
 * _The Great Gatsby_ by F. Scott Fitzgerald - Classic
 * _The Sorrows of Young Werther_ by Johann Wolfgang von Goethe - Classic
 * _The Tartar Steppe_ by Dino Buzzati - Novel
