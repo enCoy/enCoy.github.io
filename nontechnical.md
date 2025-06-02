@@ -181,7 +181,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Juror #2 (2024)
 * Companion (2025)
 
-* ## Series
+## Series
 * Friends
 * Game of Thrones (First 6 seasons)
 * Band of Brothers
