@@ -18,6 +18,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The History of Western Philosophy_ by Bertrand Russell
 * _The Republic_ by Plato - Philosophy
 * _The Epic of Gilgamesh_ - Epic Sumerian Story
+* _Mythology_ by Edith Hamilton - Greek Mythology
 * _Political Ideologies: An Introduction_ by Andrew Heywood
 * _Sapiens_ by Yuval Noah Harari - History
 * _Guns, Germs, and Steel: The Fates of Human Societies_ by Jared Diamond - History, Analysis
@@ -26,10 +27,13 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _How to Read a Book_ by Mortimer J. Adler and Charles Van Doren
 * _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
-* _Status Anxiety_ by Alain De Botton 
+* _Status Anxiety_ by Alain De Botton
+* _The Hungry Spirit_ by Charles Handy - Reflection 
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self-Development
 * _The Culture Map_ by Erin Meyer - Culture
 * _Influence: The Psychology of Persuasion_ by Robert Cialdini - Psychology
+* _The Road to Conscious Machines The Story of AI_ by Michael Wooldridge - Science, History
+* _Genius Makers_ by Cade Metz - Science, History (Figures behind deep learning revolution)
 * _The New Leaders_ by Daniel Goleman - Leadership
 * _Discipline and Punish: The Birth of the Prison_ by Michel Foucault - History, Philosophy
 * _Simulacra and Simulation_ by Jean Baudrillard - Philosophy
@@ -64,6 +68,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Picture of Dorian Gray_ by Oscar Wilde - Classic
 * _Harry Potter_ by J.K. Rowling - Fantasy (books are better than motion pictures)
 * _The Lord of the Rings_ by J.R.R. Tolkien - Fantasy
+* _Iliad_ by Homer - Epic
 * _Percy Jackson & the Olympians_ by Rick Riordan - Fantasy (the first books that made me love reading)
 * _Samarkand_ by Amin Maalouf - Novel
 * _Serenad_ by Zulfu Livaneli - Turkish Novel (read it with Schubert's Serenade)
@@ -125,6 +130,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Parasite (2019)
 * In The Mood For Love (2000)
 * Forrest Gump (1994)
+* Memories of Murder (2003)
 * It's a Wonderful Life (1946)
 * Citizen Kane (1941)
 * Blade Runner (1982)
@@ -157,6 +163,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Anatomy of a Fall (2023)
 * The Shining (1980)
 * The Matrix (1999)
+* Upgrade (2018)
 * Se7en (1995)
 * Singin' in the Rain (1952)
 * Coco (2017)
@@ -166,5 +173,30 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * No Country for Old Men (2007)
 * There Will Be Blood (2007)
 * Birdman (2014)
+* Downfall (2004)
 * L.A. Confidential (1997)
+* Seven Samurai (1954)
+* Conclave (2024)
+* Anora (2024)
+* Juror #2 (2024)
+* Companion (2025)
+
+* ## Series
+* Friends
+* Game of Thrones (First 6 seasons)
+* Band of Brothers
+* Breaking Bad
+* The Boys
+* Adolescence (Limited series)
+* Chernobyl (Limited series)
+* The Queen's Gambit (Limited series)
+* Dark
+* The Last of Us
+* South Park
+* Rick and Morty
+* Black Mirror
+* Succession
+* Peaky Blinders
+* Six Feet Under
+* Alice in Borderland
 
