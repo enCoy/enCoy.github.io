@@ -12,10 +12,11 @@ I am a 4th year Ph.D. student in the [Robotics Department](https://research.gate
 Prior to my graduate studies, I was an undergraduate student in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at Bilkent University. I was fortunate to be advised by Prof. Yildiray Yildiz in [Systems Laboratory](https://yildirayyildiz.com/about/) for developing behavioral human driver models using game theory, control theory and reinforcement learning. 
 
 ## Publications
-1. **C. O. Yaldiz** et al., “Real-Time Autoregressive Forecast of Cardiac Features for Psychophysiological Applications”, Under Review, 2024.
-2. **C. O. Yaldiz** and Y. Yildiz, “Driver Modeling Using a Continuous Policy Space: Theory and Traffic Data Validation”, IEEE Transactions on Intelligent Vehicles, 2023.
-3. D. J. Lin et al., “Predicting Soldier Performance on Structured Military Training Marches with Wearable Accelerometer and Physiological Data”, IEEE Sensors Journal, 2023.
-4. **C. O. Yaldiz** et al., “Early Prediction of Impending Exertional Heat Stroke With Wearable Multimodal Sensing and Anomaly Detection”, IEEE Journal of Biomedical and Health Informatics, 2023.
-5. **C. O. Yaldiz**, N. Sebkhi, A. Bhavsar, J. Wang, and O. T. Inan, “Improving Reliability of Magnetic Localization Using Input Space Transformation”, IEEE Sensors Journal, 2023.
-6. **C. O. Yaldiz** and Y. Yildiz, “Driver modeling using continuous reasoning levels: A game theoretical approach”, in 2022 IEEE 61st Conference on Decision and Control (CDC), 2022, pp. 5068–5073.
+1. **C. O. Yaldiz** et al., “Real-Time Autoregressive Forecast of Cardiac Features for Psychophysiological Applications”, IEEE Journal of Biomedical and Health Informatics, 2025.
+2. O.S. Kilic et al., "Heart rate informed detection of cardiac events using the Kalman filter", Computers in Biology and Medicine, 2025.
+3. **C. O. Yaldiz** and Y. Yildiz, “Driver Modeling Using a Continuous Policy Space: Theory and Traffic Data Validation”, IEEE Transactions on Intelligent Vehicles, 2023.
+4. D. J. Lin et al., “Predicting Soldier Performance on Structured Military Training Marches with Wearable Accelerometer and Physiological Data”, IEEE Sensors Journal, 2023.
+5. **C. O. Yaldiz** et al., “Early Prediction of Impending Exertional Heat Stroke With Wearable Multimodal Sensing and Anomaly Detection”, IEEE Journal of Biomedical and Health Informatics, 2023.
+6. **C. O. Yaldiz**, N. Sebkhi, A. Bhavsar, J. Wang, and O. T. Inan, “Improving Reliability of Magnetic Localization Using Input Space Transformation”, IEEE Sensors Journal, 2023.
+7. **C. O. Yaldiz** and Y. Yildiz, “Driver modeling using continuous reasoning levels: A game theoretical approach”, in 2022 IEEE 61st Conference on Decision and Control (CDC), 2022, pp. 5068–5073.
 
