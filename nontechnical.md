@@ -28,6 +28,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
 * _Status Anxiety_ by Alain De Botton
+* _Maus_ by Art Spiegelman
 * _The Hungry Spirit_ by Charles Handy - Reflection 
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self-Development
 * _The Culture Map_ by Erin Meyer - Culture
