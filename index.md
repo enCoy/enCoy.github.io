@@ -11,7 +11,7 @@ I am a 4th year Ph.D. student in the [Robotics Department](https://research.gate
 
 Prior to my graduate studies, I was an undergraduate student in the [Department of Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) at Bilkent University. I was fortunate to be advised by Prof. Yildiray Yildiz in [Systems Laboratory](https://yildirayyildiz.com/about/) for developing behavioral human driver models using game theory, control theory and reinforcement learning.
 
-In the summer of 2025, I joined Goldman Sachs in Dallas as a  Quantitative Strategist Summer Associate in the Credit Risk team. My work aimed at developing and validating a mathematical model to evaluate credit risk for structured finance products backed by commercial real estate. My role involved exploring various time series models for scenario generation and conducting quantitative risk analysis to support robust risk assessment frameworks.
+In the summer of 2025, I joined [Goldman Sachs](https://www.goldmansachs.com/homepage) in Dallas as a  Quantitative Strategist Summer Associate in the Credit Risk team. My work aimed at developing and validating a mathematical model to evaluate credit risk for structured finance products backed by commercial real estate. My role involved exploring various time series models for scenario generation and conducting quantitative risk analysis to support robust risk assessment frameworks.
 
 ## Publications
 1. **C. O. Yaldiz** et al., “Real-Time Autoregressive Forecast of Cardiac Features for Psychophysiological Applications”, IEEE Journal of Biomedical and Health Informatics, 2025.
