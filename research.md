@@ -19,7 +19,7 @@ My PhD research focuses on developing predictive models for wearable devices. To
 During my undergraduate studies, I worked on behavioral human driver modeling, utilizing approaches from game theory, control theory, reinforcement learning, and probabilistic modeling (e.g., multi-output Gaussian processes). I continue to incorporate techniques such as state-space modeling and reinforcement learning into my current research. 
 
 For my upcoming Ph.D. work, I am particularly interested in: <br>
-**1**. Developing unsupervised and self-supervised representation learning algorithms for physiological signals, which can be applied to various downstream tasks, instead of task specific algorithm development. <br>
+**1**. Developing unsupervised and self-supervised representation learning algorithms for physiological signals (e.g., brain and cardiac signals), which can be applied to various downstream tasks, instead of task specific algorithm development. <br>
 **2**. Uncovering multimodal relationships in wearable signals to better understand and interpret model decisions. <br>
 **3**. Integrating state-space models, such as Kalman filters, with deep learning-based representation learning algorithms to model physiological states. This fusion aims to combine the speed and interpretability of state-space models with the expressiveness of deep learning. <br>
 **4**. Incorporating human input/feedback into the loop to make these technologies safer and more useful. <br>
