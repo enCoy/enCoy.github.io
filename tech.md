@@ -24,9 +24,6 @@ This is a book for the people working on deployment part. However, it is still a
 [Mathematics for Machine Learning](https://mml-book.github.io/) (Marc Peter Deisenroth et. al.) <br>
 Not sure if it is a good book for beginners, but a great one as a refresher. 
 
-[Statistical Tests](https://www.youtube.com/watch?v=Ym1iH8-GQOE&t=7916s&ab_channel=DATAtab) (DATATab) <br>
-Very good source for understanding statistical tests.
-
 
 ## Online Lectures
 [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) (Volodymyr Kuleshov) <br>
@@ -46,6 +43,9 @@ Great source for understanding the basics of deep learning.
 
 [Applied Machine Learning - Cornell](https://kuleshov-group.github.io/aml-website/) (Volodymyr Kuleshov) <bv>
 I used this one as a refresher. Very explanatory for the basics of conventional ML algorithms. 
+
+[Statistical Tests](https://www.youtube.com/watch?v=Ym1iH8-GQOE&t=7916s&ab_channel=DATAtab) (DATATab) <br>
+Very good source for understanding statistical tests.
 
 
 ## Websites/Videos
