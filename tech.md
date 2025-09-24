@@ -92,5 +92,9 @@ Very good source for understanding statistical tests.
 * Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023). **MAMBA**
 * Qu, Haohao, et al. "A survey of mamba." arXiv preprint arXiv:2408.01129 (2024).
 * Shumailov, Ilia, et al. "AI models collapse when trained on recursively generated data." Nature 631.8022 (2024): 755-759.
+* He, Kaiming, et al. "Masked autoencoders are scalable vision learners." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. **MAE**
+* Huang, Po-Yao, et al. "Masked autoencoders that listen." Advances in Neural Information Processing Systems 35 (2022): 28708-28720. **Audio MAE**
+* Gupta, Agrim, et al. "Siamese masked autoencoders." Advances in Neural Information Processing Systems 36 (2023): 40676-40693. **SiamMAE**
+* Bachmann, Roman, et al. "Multimae: Multi-modal multi-task masked autoencoders." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022. **MultiMAE**
 
 
