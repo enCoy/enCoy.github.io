@@ -50,6 +50,8 @@ Very good source for understanding statistical tests.
 
 ## Websites/Videos
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Christopher Olah)
+[Cool Post on PyTorch Debugging](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/?t=1) (Elana P. Simon)
+[On t-SNE](https://distill.pub/2016/misread-tsne/) (Distill)
 
 ## Papers
 * LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
