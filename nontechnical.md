@@ -29,6 +29,8 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
 * _Status Anxiety_ by Alain De Botton
 * _Maus_ by Art Spiegelman
+* _Inverting The Pyramid: The History of Soccer Tactics_ by Jonathan Wilson - History
+* _Drink: A Cultural History of Alcohol_ by Iain Gately - History
 * _The Hungry Spirit_ by Charles Handy - Reflection 
 * _The 7 Habits of Highly Effective People_ by Stephen Coey - Self-Development
 * _The Culture Map_ by Erin Meyer - Culture
@@ -62,7 +64,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Pearl_ by John Steinbeck - Short Novel
 * _The Trial_ by Franz Kafka - Classic
 * _Lord of the Flies_ by William Golding - Short Novel
-* _One Thousand and One Nights_ - Fairy Tale (the first books that made me love reading)
+* _One Thousand and One Nights_ - Fairy Tale (the first literary books that made me love dense non-fiction classics)
 * _Brave New World_ by Aldous Huxley - Novel
 * _To Kill a Mockingbird_ by Harper Lee - Novel (1962 movie adaptation is also suggested) 
 * _The Stranger_ by Albert Camus - Classic
