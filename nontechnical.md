@@ -194,10 +194,12 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Chernobyl (Limited series)
 * The Queen's Gambit (Limited series)
 * Dark
-* The Last of Us
+* Severance
 * South Park
 * Rick and Morty
 * Black Mirror
+* Modern Family
+* Big Bang Theory
 * Succession
 * Peaky Blinders
 * Six Feet Under
