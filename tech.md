@@ -98,5 +98,6 @@ Very good source for understanding statistical tests.
 * Huang, Po-Yao, et al. "Masked autoencoders that listen." Advances in Neural Information Processing Systems 35 (2022): 28708-28720. **Audio MAE**
 * Gupta, Agrim, et al. "Siamese masked autoencoders." Advances in Neural Information Processing Systems 36 (2023): 40676-40693. **SiamMAE**
 * Bachmann, Roman, et al. "Multimae: Multi-modal multi-task masked autoencoders." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022. **MultiMAE**
+* Christiano, Paul F., et al. "Deep reinforcement learning from human preferences." Advances in neural information processing systems 30 (2017). **RLHF**
 
 
