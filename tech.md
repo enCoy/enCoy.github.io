@@ -49,6 +49,7 @@ Very good source for understanding statistical tests.
 
 
 ## Websites/Videos
+[Large Scale Distributed Training](https://www.youtube.com/watch?v=9MvD-XsowsE) (Justin Johnson)
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Christopher Olah)
 [Cool Post on PyTorch Debugging](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/?t=1) (Elana P. Simon)
 [On t-SNE](https://distill.pub/2016/misread-tsne/) (Distill)
