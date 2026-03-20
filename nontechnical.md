@@ -14,6 +14,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Art of Loving_ by Erich Fromm - Philosophy
 * _Writing with Style_ by John Trimble - Writing
 * _The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution_ by Walter Isaacson
+* _Economics Explained_ by Robert Heilbroner and Lester Thurow
 * _Thinking, Fast and Slow_ by Daniel Kahneman - Analysis
 * _The History of Western Philosophy_ by Bertrand Russell
 * _The Republic_ by Plato - Philosophy
@@ -28,7 +29,6 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Social Contract_ by Jean-Jacques Rousseau - Political Philosophy
 * _Outliers: The Story of Success_ by Malcolm Gladwell - Analysis
 * _Status Anxiety_ by Alain De Botton
-* _Maus_ by Art Spiegelman
 * _Inverting The Pyramid: The History of Soccer Tactics_ by Jonathan Wilson - History
 * _Drink: A Cultural History of Alcohol_ by Iain Gately - History
 * _The Hungry Spirit_ by Charles Handy - Reflection 
@@ -98,6 +98,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Germinal_ by Emile Zola - Classic
 * _The Plague_ by Albert Camus - Novel
 * _Madame Bovary_ by Gustave Flaubert - Classic
+* _Odyssey_ by Homer - Myth
 * _Iliad_ by Homer - Myth
 * _The Great Gatsby_ by F. Scott Fitzgerald - Classic
 * _The Sorrows of Young Werther_ by Johann Wolfgang von Goethe - Classic
@@ -106,6 +107,8 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Alchemist_ by Paulo Coelho - Novel
 * _Zen and the Art of Motorcycle Maintenance by Robert Pirsig - Novel
 * _The Last Day of a Condemned_ by Victor Hugo - Classic
+* _The Hitchhiker's Guide to the Galaxy_ by Douglas Adams
+* _The Restaurant at the End of the Universe_ by Douglas Adams
 * _The Da Vinci Code_, _Angels and Demons_ by Dan Brown - Mystery Novel 
 * _Siddhartha_ by Herman Hesse - Novel
 * _Slaughterhouse-Five_ by Kurt Vonnegut - Novel
@@ -113,6 +116,12 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Little Prince_ by Antoine de Saint-Exupéry
 * _The Catcher in the Rye_ by J.D. Salinger - Classic
 
+## Comics
+* _Watchmen_ by Alan Moore and Dave Gibbons
+* _Maus_ by Art Spiegelman
+* _Secret Wars_ by Jonathan Hickman
+* _V for Vendetta_ by Alan Moore and David Lloyd
+* _Civil War_ by Mark Millar
 
 ## Cinema
 * Good Will Hunting (1997)
@@ -178,17 +187,21 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Birdman (2014)
 * Downfall (2004)
 * L.A. Confidential (1997)
+* Sinners (2025)
 * Seven Samurai (1954)
 * Conclave (2024)
 * Anora (2024)
 * Juror #2 (2024)
 * Companion (2025)
+* One Battle After Another (2026)
+* Weapons (2025)
 
 ## Series
 * Friends
 * Game of Thrones (First 6 seasons)
 * Band of Brothers
 * Breaking Bad
+* Sopranos
 * The Boys
 * Adolescence (Limited series)
 * Chernobyl (Limited series)
