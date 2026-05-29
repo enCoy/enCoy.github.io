@@ -120,6 +120,8 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _Watchmen_ by Alan Moore and Dave Gibbons
 * _Maus_ by Art Spiegelman
 * _Secret Wars_ by Jonathan Hickman
+* _Teenage Mutant Ninja Turtles The Last Ronin_ by Kevin Eastman and Peter Laird
+* _Batman Year One_ by Frank Miller and David Mazzucchelli
 * _V for Vendetta_ by Alan Moore and David Lloyd
 * _Civil War_ by Mark Millar
 
@@ -153,6 +155,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * The Godfather (1972)
 * The Ballad of Buster Scruggs (2018)
 * Rashomon (1950)
+* MCU Movies (until End Game)
 * La La Land (2016)
 * Casablanca (1942)
 * Up (2009)
