@@ -227,3 +227,27 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Six Feet Under
 * Alice in Borderland
 
+## Video Games
+* Uncharted Series 1-4 - Naughty Dog
+* Red Dead Redemption 2 (2018) - Rockstar Games
+* The Witcher 3 (2015) - CD Projekt Red
+* God of War (2018) - Santa Monica Studio
+* Spider-Man (2018) - Insomniac Games
+* God of War Ragnarok (2022) - Santa Monica Studio
+* GTA 5 (2013) - Rockstar Games
+* Batman: Arkham Asylum (2009) and Arkham City (2011) - Rocksteady Studios
+* Forza Horizon 4 and 5 - Playground Games
+* Mafia 1 and 2 - Illusion Softworks / 2K Czech
+* Katana Zero (2019) - Askiisoft
+* Ori and the Blind Forest (2015) - Moon Studios
+* Ori and the Will of the Wisps (2020) - Moon Studios
+* Tomb Raider Series (Original, Rise of the Tomb Raider, Shadow of the Tomb Raider) - Crystal Dynamics
+* INSIDE (2016) and Limbo (2010) - Playdead
+* Assassin's Creed Odyssey (2018) - Ubisoft
+* Dead Cells (2018) - Motion Twin
+* Hades (2020) - Supergiant Games
+* Marvel's Guardians of the Galaxy (2021) - Eidos-Montréal
+* It Takes Two (2021) - Hazelight Studios
+* A Plague Tale: Innocence and Requiem - Asobo Studio
+* Hitman Series - IO Interactive
+

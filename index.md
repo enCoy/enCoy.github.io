@@ -14,17 +14,24 @@ Prior to my graduate studies, I was an undergraduate student in the [Department 
 In the summer of 2025, I joined [Goldman Sachs](https://www.goldmansachs.com/homepage) in Dallas as a  Quantitative Strategist Summer Associate in the Credit Risk team. My work aimed at developing and validating a mathematical model to evaluate credit risk for structured finance products backed by commercial real estate. My role involved exploring various time series models for scenario generation and conducting quantitative risk analysis to support robust risk assessment frameworks.
 
 ## Publications
-1. A.R. Emirdagi et al., "EffSCG: An Efficient Framework for Real-Time Seismocardiogram Denoising on Resource-Constrained Edge Devices", Manuscript under preparation (2025).
-2. D. Tangolar et al., "Establishing Generalizability of Wearable-Enabled Blood Volume Decompensation Status Estimation Algorithms Using Transfer Learning", Under review (2025).
-3. M. Cho et al., "Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validated Cardiac Timings", Under review (2025).
-4. **C. O. Yaldiz** et al., "Short-Term Physiological Forecasting with Adaptive Covariance Matrix Estimation", IEEE-EMBS International Conference on Body Sensor Networks, 2025.
-5. **(Best Paper/Presentation Award)** D. Tangolar et al., "Enabling Intelligent Resuscitation: Non-Invasive Cardiac Output Monitoring via Physiological Sensing and Machine Learning", IEEE-EMBS International Conference on Body Sensor Networks, 2025.
-6. **C. O. Yaldiz** et al., “Real-Time Autoregressive Forecast of Cardiac Features for Psychophysiological Applications”, IEEE Journal of Biomedical and Health Informatics, 2025.
-7. S.Karimi et al., “Prescreening Depression Using Wearable Electrocardiogram and Photoplethysmogram Data from a Psycholinguistic Experiment”, Physiological Measurement, 2025.
-8. O.S. Kilic et al., "Heart rate informed detection of cardiac events using the Kalman filter", Computers in Biology and Medicine, 2025.
-9. **C. O. Yaldiz** and Y. Yildiz, “Driver Modeling Using a Continuous Policy Space: Theory and Traffic Data Validation”, IEEE Transactions on Intelligent Vehicles, 2023.
-10. D. J. Lin et al., “Predicting Soldier Performance on Structured Military Training Marches with Wearable Accelerometer and Physiological Data”, IEEE Sensors Journal, 2023.
-11. **C. O. Yaldiz** et al., “Early Prediction of Impending Exertional Heat Stroke With Wearable Multimodal Sensing and Anomaly Detection”, IEEE Journal of Biomedical and Health Informatics, 2023.
-12. **C. O. Yaldiz**, N. Sebkhi, A. Bhavsar, J. Wang, and O. T. Inan, “Improving Reliability of Magnetic Localization Using Input Space Transformation”, IEEE Sensors Journal, 2023.
-13. **C. O. Yaldiz** and Y. Yildiz, “Driver modeling using continuous reasoning levels: A game theoretical approach”, in 2022 IEEE 61st Conference on Decision and Control (CDC), 2022, pp. 5068–5073.
+1. **C. O. Yaldiz** et al., "Integrating Multi-Modal Brain–Heart Interactions for Classification of Depression and Preconscious Responses", Under review (2026).
+2. **C. O. Yaldiz** et al., "Multi-Modal Self-Supervised Learning of Signal Dynamics Enables Scalable Blood Volume Assessment in Hypovolemia", Under review (2026).
+3. D. Tangolar et al., "Multi-Task Learning Based Estimation of Hemodynamic Parameters from Cardiovascular Signals Measured with a Wearable Device during Hemorrhage", Under review (2026).
+4. P.C. Desrochers et al., "Eye Tracking During Reading of Affective Lexical Stimuli Enables Prediction of Depression", Under review (2026).
+5. A.R. Emirdagi et al., "EffSCG: An Efficient Framework for Real-Time Seismocardiogram Denoising on Resource-Constrained Edge Devices", Under review (2026).
+6. O.S. Kilic et al., "Guideline2Graph: Profile-Aware Multimodal Parsing for Executable Clinical Decision Graphs", Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.
+7. M. Cho et al., "Seismocardiography Pig Hypovolemia Dataset for Signal Quality Indexing and Validated Cardiac Timings", Scientific Data, 2026.
+8. D. Tangolar et al., "Establishing Generalizability of Wearable-Enabled Blood Volume Decompensation Status Estimation Algorithms Using Transfer Learning", Computers in Biology and Medicine, 2026.
+9. G.C. Cestero et al., "Quantifying Changes in Triaxial Seismocardiography Variability due to Sub-Optimal Volume Status", Frontiers in Physiology, 2026.
+10. **C. O. Yaldiz** et al., "Short-Term Physiological Forecasting with Adaptive Covariance Matrix Estimation", IEEE-EMBS International Conference on Body Sensor Networks, 2025.
+11. **(Best Paper/Presentation Award)** D. Tangolar et al., "Enabling Intelligent Resuscitation: Non-Invasive Cardiac Output Monitoring via Physiological Sensing and Machine Learning", IEEE-EMBS International Conference on Body Sensor Networks, 2025.
+12. **C. O. Yaldiz** et al., “Real-Time Autoregressive Forecast of Cardiac Features for Psychophysiological Applications”, IEEE Journal of Biomedical and Health Informatics, 2025.
+13. S.Karimi et al., “Prescreening Depression Using Wearable Electrocardiogram and Photoplethysmogram Data from a Psycholinguistic Experiment”, Physiological Measurement, 2025.
+14. O.S. Kilic et al., "Heart rate informed detection of cardiac events using the Kalman filter", Computers in Biology and Medicine, 2025.
+15. **C. O. Yaldiz** and Y. Yildiz, “Driver Modeling Using a Continuous Policy Space: Theory and Traffic Data Validation”, IEEE Transactions on Intelligent Vehicles, 2023.
+16. D. J. Lin et al., “Predicting Soldier Performance on Structured Military Training Marches with Wearable Accelerometer and Physiological Data”, IEEE Sensors Journal, 2023.
+17. **C. O. Yaldiz** et al., “Early Prediction of Impending Exertional Heat Stroke With Wearable Multimodal Sensing and Anomaly Detection”, IEEE Journal of Biomedical and Health Informatics, 2023.
+18. **C. O. Yaldiz**, N. Sebkhi, A. Bhavsar, J. Wang, and O. T. Inan, “Improving Reliability of Magnetic Localization Using Input Space Transformation”, IEEE Sensors Journal, 2023.
+19. **C. O. Yaldiz** and Y. Yildiz, “Driver modeling using continuous reasoning levels: A game theoretical approach”, in 2022 IEEE 61st Conference on Decision and Control (CDC), 2022, pp. 5068–5073.
+20. **C. O. Yaldiz** and Y. Yildiz, "Modeling human driver interactions using an infinite policy space through gaussian processes", arXiv preprint arXiv:2201.01733, 2022.
 

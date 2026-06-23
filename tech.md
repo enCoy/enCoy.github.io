@@ -100,5 +100,7 @@ Very good source for understanding statistical tests.
 * Gupta, Agrim, et al. "Siamese masked autoencoders." Advances in Neural Information Processing Systems 36 (2023): 40676-40693. **SiamMAE**
 * Bachmann, Roman, et al. "Multimae: Multi-modal multi-task masked autoencoders." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022. **MultiMAE**
 * Christiano, Paul F., et al. "Deep reinforcement learning from human preferences." Advances in neural information processing systems 30 (2017). **RLHF**
+* Hu, Edward J., et al. "Lora: Low-rank adaptation of large language models." arXiv preprint arXiv:2106.09685 (2021). **LoRA**
+* Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014). **Adam**
 
 
