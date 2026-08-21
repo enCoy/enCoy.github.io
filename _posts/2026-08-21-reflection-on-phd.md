@@ -1,11 +1,9 @@
 ---
-title:  "Reflection on PhD"
+title:  "Reflections on My PhD"
 mathjax: true
 layout: post
 categories: media
 ---
-
-# Reflections on My PhD
 
 It has been some time since I defended my PhD thesis and closed this chapter of my life in the US. Since becoming a scientist was my childhood dream, and since I spent five long years abroad to get there, I think this is something worth sitting down and reflecting on. Doing it now, after the story is over, feels like the better strategy — I can remember those moments fondly instead of being constantly hounded by the deadlines that make you hate a PhD while you're living it. I'll try to be as honest as possible about these past five years.
 
