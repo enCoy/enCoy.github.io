@@ -50,9 +50,14 @@ Very good source for understanding statistical tests.
 
 ## Websites/Videos
 [Large Scale Distributed Training](https://www.youtube.com/watch?v=9MvD-XsowsE) (Justin Johnson)
+
 [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Christopher Olah)
+
 [Cool Post on PyTorch Debugging](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/?t=1) (Elana P. Simon)
+
 [On t-SNE](https://distill.pub/2016/misread-tsne/) (Distill)
+
+[On LLMs and Coding Workflow](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) (Addy Osmani)
 
 ## Papers
 * LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
@@ -102,5 +107,7 @@ Very good source for understanding statistical tests.
 * Christiano, Paul F., et al. "Deep reinforcement learning from human preferences." Advances in neural information processing systems 30 (2017). **RLHF**
 * Hu, Edward J., et al. "Lora: Low-rank adaptation of large language models." arXiv preprint arXiv:2106.09685 (2021). **LoRA**
 * Kingma, Diederik P., and Jimmy Ba. "Adam: A method for stochastic optimization." arXiv preprint arXiv:1412.6980 (2014). **Adam**
-
+* Oquab, Maxime, et al. "Dinov2: Learning robust visual features without supervision." arXiv preprint arXiv:2304.07193 (2023). **DinoV2**
+* Robinson, Isaac, et al. "RF-DETR: Neural architecture search for real-time detection transformers." International Conference on Learning Representations. Vol. 2026. 2026. **RF-DETR**
+* Kaifosh, Patrick, and Thomas R. Reardon. "A generic non-invasive neuromotor interface for human-computer interaction." Nature 645.8081 (2025): 702-711. **EMG Scalability**
 
