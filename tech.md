@@ -59,6 +59,8 @@ Very good source for understanding statistical tests.
 
 [On LLMs and Coding Workflow](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) (Addy Osmani)
 
+[On Some Recipes for LoRA](https://thinkingmachines.ai/blog/lora/) (John Schulman and Thinking Machines)
+
 ## Papers
 * LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
 * Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017). **Transformer Paper** 
