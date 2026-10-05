@@ -207,6 +207,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 
 ## Series
 * Friends
+* The Office
 * Game of Thrones (First 6 seasons)
 * Band of Brothers
 * Breaking Bad
@@ -222,6 +223,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * Black Mirror
 * Modern Family
 * Big Bang Theory
+* Silo
 * Succession
 * Peaky Blinders
 * Six Feet Under
