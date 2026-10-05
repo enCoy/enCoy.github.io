@@ -112,4 +112,5 @@ Very good source for understanding statistical tests.
 * Oquab, Maxime, et al. "Dinov2: Learning robust visual features without supervision." arXiv preprint arXiv:2304.07193 (2023). **DinoV2**
 * Robinson, Isaac, et al. "RF-DETR: Neural architecture search for real-time detection transformers." International Conference on Learning Representations. Vol. 2026. 2026. **RF-DETR**
 * Kaifosh, Patrick, and Thomas R. Reardon. "A generic non-invasive neuromotor interface for human-computer interaction." Nature 645.8081 (2025): 702-711. **EMG Scalability**
+* Ganin, Yaroslav, et al. "Domain-adversarial training of neural networks." Journal of machine learning research 17.59 (2016): 1-35. **DANN**
 
