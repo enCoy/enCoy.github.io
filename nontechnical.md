@@ -61,6 +61,7 @@ Here I share non-technical (philosophy, literature, art, cinema etc.) suggestion
 * _The Black Book_ by Orhan Pamuk - Turkish Novel
 * _One Hundred Years of Solitude_ by Gabriel García Márquez - Classic
 * _Pride and Prejudice_ by Jane Austen - Classic
+* _Siddhartha_ by Hermann Hesse - Classic
 * _The Pearl_ by John Steinbeck - Short Novel
 * _The Trial_ by Franz Kafka - Classic
 * _Lord of the Flies_ by William Golding - Short Novel
