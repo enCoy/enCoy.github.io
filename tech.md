@@ -47,6 +47,11 @@ I used this one as a refresher. Very explanatory for the basics of conventional 
 [Statistical Tests](https://www.youtube.com/watch?v=Ym1iH8-GQOE&t=7916s&ab_channel=DATAtab) (DATATab) <br>
 Very good source for understanding statistical tests.
 
+[Transformers & LLMs](https://www.youtube.com/watch?v=114i2Kz-LZA) (Stanford CME 295, Afshine and Shervine Amidi) <br>
+Great source for the technologies that created ChatGPT and Claude.
+
+[Diffusion and Large Vision Models](https://www.youtube.com/watch?v=114i2Kz-LZA) (Stanford CME 296, Afshine and Shervine Amidi) <br>
+Another great resource from Stanford, this time for vision.
 
 ## Websites/Videos
 [Large Scale Distributed Training](https://www.youtube.com/watch?v=9MvD-XsowsE) (Justin Johnson)
@@ -60,6 +65,8 @@ Very good source for understanding statistical tests.
 [On LLMs and Coding Workflow](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) (Addy Osmani)
 
 [On Some Recipes for LoRA](https://thinkingmachines.ai/blog/lora/) (John Schulman and Thinking Machines)
+
+[Graph Neural Networks](https://distill.pub/2021/gnn-intro/) (Distill)
 
 ## Papers
 * LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444. 
